@@ -1,0 +1,11 @@
+{
+  "name": "vscode-theme",
+  "version": "1.0.0",
+  "enabled": true,
+  "count": 3,
+  "palette": ["#0f172a", "#f59e0b", "#e2e8f0"],
+  "nested": {
+    "kind": "theme",
+    "meta": null
+  }
+}
