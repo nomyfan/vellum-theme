@@ -1,6 +1,14 @@
 {
   "name": "Vellum Light",
   "type": "light",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "method": "#B38F2F",
+    "function": "#B38F2F",
+    "class": "#4F6E5B",
+    "variable": "#45413D",
+    "property": "#45413D"
+  },
   "colors": {
     "activityBar.background": "#EBE5DE",
     "activityBar.foreground": "#45413D",
@@ -81,7 +89,7 @@
       "scope": [
         "entity.name.function",
         "support.function",
-        "meta.function-call"
+        "meta.function-call.generic"
       ],
       "settings": {
         "foreground": "#B38F2F",

@@ -2,11 +2,11 @@
   "name": "vellum-theme",
   "displayName": "Vellum",
   "description": "A warm, paper-like theme optimized for long reading sessions.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "nomyfan",
   "scripts": {
     "build": "vsce package",
-    "iext": "code --install-extension"
+    "i": "code --install-extension"
   },
   "engines": {
     "vscode": "^1.80.0"

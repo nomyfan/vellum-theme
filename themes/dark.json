@@ -1,6 +1,14 @@
 {
   "name": "Vellum Dark",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "method": "#DBBC7F",
+    "function": "#DBBC7F",
+    "class": "#8FA895",
+    "variable": "#D8D3CB",
+    "property": "#D8D3CB"
+  },
   "colors": {
     "activityBar.background": "#262321",
     "activityBar.foreground": "#D8D3CB",
@@ -81,7 +89,7 @@
       "scope": [
         "entity.name.function",
         "support.function",
-        "meta.function-call"
+        "meta.function-call.generic"
       ],
       "settings": {
         "foreground": "#DBBC7F",
