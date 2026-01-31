@@ -6,7 +6,8 @@
   "publisher": "nomyfan",
   "scripts": {
     "build": "vsce package",
-    "i": "code --install-extension vellum-theme-0.1.0.vsix force"
+    "i": "code --install-extension vellum-theme-0.1.0.vsix force",
+    "bi": "npm run build && npm run i"
   },
   "engines": {
     "vscode": "^1.80.0"

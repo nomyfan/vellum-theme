@@ -7,7 +7,8 @@
     "function": "#B38F2F",
     "class": "#4F6E5B",
     "variable": "#45413D",
-    "property": "#45413D"
+    "property": "#45413D",
+    "variable.readonly": "#9E658E"
   },
   "colors": {
     "activityBar.background": "#EBE5DE",
