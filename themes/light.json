@@ -63,6 +63,7 @@
     "statusBar.debuggingBackground": "#C97034",
     "tab.activeBackground": "#FAF8F5",
     "tab.activeForeground": "#C97034",
+    "tab.activeBorderTop": "#C97034",
     "tab.inactiveBackground": "#F2EFEC",
     "tab.inactiveForeground": "#9E978E",
     "titleBar.activeBackground": "#F2EFEC",
