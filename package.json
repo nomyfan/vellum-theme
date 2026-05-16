@@ -20,12 +20,12 @@
       {
         "label": "Vellum Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark.json"
+        "path": "./themes/vscode-dark.json"
       },
       {
         "label": "Vellum Light",
         "uiTheme": "vs",
-        "path": "./themes/light.json"
+        "path": "./themes/vscode-light.json"
       }
     ]
   }
