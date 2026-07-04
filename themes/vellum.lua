@@ -3,12 +3,12 @@ local M = {}
 local palettes = {
   dark = {
     -- UI Colors
-    bg           = "#262321", -- editor.background
-    bg_alt       = "#211F1D", -- sideBar.background / tab.inactiveBackground
-    bg_float     = "#2C2926", -- editorWidget.background / statusBar.background
-    bg_highlight = "#302D2A", -- editor.lineHighlightBackground
-    bg_visual    = "#453F39", -- editor.selectionBackground
-    border       = "#36322E", -- editorWidget.border
+    bg           = "#221F1D", -- editor.background
+    bg_alt       = "#1D1B19", -- sideBar.background / tab.inactiveBackground
+    bg_float     = "#282522", -- editorWidget.background / statusBar.background
+    bg_highlight = "#2C2926", -- editor.lineHighlightBackground
+    bg_visual    = "#413B35", -- editor.selectionBackground
+    border       = "#322E2A", -- editorWidget.border
     
     fg           = "#D8D3CB", -- editor.foreground
     fg_alt       = "#7C7670", -- comment / tab.inactiveForeground
