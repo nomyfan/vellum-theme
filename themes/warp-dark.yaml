@@ -1,10 +1,10 @@
 accent: '#E6A67E'
-background: '#221F1D'
+background: '#1A1816'
 details: darker
 foreground: '#D8D3CB'
 terminal_colors:
   normal:
-    black: '#322E2A'
+    black: '#2A2723'
     red: '#E68585'
     green: '#A6C485'
     yellow: '#DBBC7F'

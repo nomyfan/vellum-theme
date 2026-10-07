@@ -3,12 +3,12 @@ local M = {}
 local palettes = {
   dark = {
     -- UI Colors
-    bg           = "#221F1D", -- editor.background
-    bg_alt       = "#1D1B19", -- sideBar.background / tab.inactiveBackground
-    bg_float     = "#282522", -- editorWidget.background / statusBar.background
-    bg_highlight = "#2C2926", -- editor.lineHighlightBackground
+    bg           = "#1A1816", -- editor.background
+    bg_alt       = "#151311", -- sideBar.background / tab.inactiveBackground
+    bg_float     = "#201E1B", -- editorWidget.background / statusBar.background
+    bg_highlight = "#24221F", -- editor.lineHighlightBackground
     bg_visual    = "#413B35", -- editor.selectionBackground
-    border       = "#322E2A", -- editorWidget.border
+    border       = "#2A2723", -- editorWidget.border
     
     fg           = "#D8D3CB", -- editor.foreground
     fg_alt       = "#7C7670", -- comment / tab.inactiveForeground
@@ -29,21 +29,21 @@ local palettes = {
     bg_alt       = "#F2EFEC",
     bg_float     = "#EBE5DE",
     bg_highlight = "#F0EBE4",
-    bg_visual    = "#E0D6CC",
+    bg_visual    = "#D5CBC2",
     border       = "#B8B2AA",
     
     fg           = "#45413D",
-    fg_alt       = "#9E978E",
-    fg_gutter    = "#B8B2AA",
+    fg_alt       = "#8A837B",
+    fg_gutter    = "#A49E97",
     
     -- Syntax Colors
-    keyword      = "#C97034",
-    func         = "#B38F2F",
+    keyword      = "#B05918",
+    func         = "#8E6C00",
     type         = "#4F6E5B",
-    string       = "#5F8C48",
-    constant     = "#9E658E",
-    error        = "#C45C5C",
-    punctuation  = "#8F8880",
+    string       = "#507C39",
+    constant     = "#975F87",
+    error        = "#B75051",
+    punctuation  = "#78716A",
   }
 }
 
