@@ -7,12 +7,12 @@
       "name": "Vellum Light",
       "appearance": "light",
       "style": {
-        "border": "#B8B2AA",
-        "border.variant": "#B8B2AA",
+        "border": "#E8E2DA",
+        "border.variant": "#E8E2DA",
         "border.focused": "#B05918",
         "border.selected": "#B05918",
-        "border.transparent": "#B8B2AA",
-        "border.disabled": "#B8B2AA",
+        "border.transparent": "#00000000",
+        "border.disabled": "#E8E2DA",
         "players": [
           {
             "cursor": "#B05918",

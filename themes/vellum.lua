@@ -30,7 +30,7 @@ local palettes = {
     bg_float     = "#EBE5DE",
     bg_highlight = "#F0EBE4",
     bg_visual    = "#D5CBC2",
-    border       = "#B8B2AA",
+    border       = "#E8E2DA",
     
     fg           = "#45413D",
     fg_alt       = "#8A837B",
