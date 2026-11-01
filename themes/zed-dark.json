@@ -11,7 +11,7 @@
         "border.variant": "#2A2723",
         "border.focused": "#E6A67E",
         "border.selected": "#E6A67E",
-        "border.transparent": "#2A2723",
+        "border.transparent": "#00000000",
         "border.disabled": "#2A2723",
         "players": [
           {
