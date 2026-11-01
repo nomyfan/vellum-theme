@@ -1,0 +1,82 @@
+/*
+ * Vellum app theme — shadcn/ui CSS variables.
+ * Values come from themes/*.json; edit here and the preview hot-reloads.
+ */
+
+:root {
+  --radius: 0.625rem;
+
+  --background: oklch(0.980 0.005 78.3); /* #faf8f5 */
+  --foreground: oklch(0.378 0.009 67.6); /* #45413d */
+  --card: oklch(0.995 0.005 78.3); /* #fffdfa */
+  --card-foreground: oklch(0.378 0.009 67.6); /* #45413d */
+  --popover: oklch(0.995 0.005 78.3); /* #fffdfa */
+  --popover-foreground: oklch(0.378 0.009 67.6); /* #45413d */
+
+  --primary: oklch(0.580 0.120 52.0); /* #b1632f */
+  --primary-foreground: oklch(1.000 0 0); /* #ffffff */
+  --secondary: oklch(0.925 0.011 71.9); /* #ebe5de */
+  --secondary-foreground: oklch(0.378 0.009 67.6); /* #45413d */
+  --muted: oklch(0.954 0.005 67.8); /* #f2efec */
+  --muted-foreground: oklch(0.522 0.014 67.5); /* #6f6861 */
+  --accent: oklch(0.942 0.011 76.6); /* #f0ebe4 */
+  --accent-foreground: oklch(0.378 0.009 67.6); /* #45413d */
+  --destructive: oklch(0.563 0.134 21.8); /* #b75051 */
+
+  --border: oklch(0.915 0.013 75.4); /* #e8e2da */
+  --input: oklch(0.877 0.016 73.7); /* #ddd5cb */
+  --ring: oklch(0.580 0.120 52.0); /* #b1632f */
+
+  --chart-1: oklch(0.560 0.134 51.4); /* #b05918 */
+  --chart-2: oklch(0.552 0.114 79.7); /* #956900 */
+  --chart-3: oklch(0.538 0.108 136.0); /* #507c39 */
+  --chart-4: oklch(0.546 0.089 252.7); /* #4973a3 */
+  --chart-5: oklch(0.560 0.091 338.0); /* #975f87 */
+
+  --sidebar: oklch(0.954 0.005 67.8); /* #f2efec */
+  --sidebar-foreground: oklch(0.378 0.009 67.6); /* #45413d */
+  --sidebar-primary: oklch(0.580 0.120 52.0); /* #b1632f */
+  --sidebar-primary-foreground: oklch(1.000 0 0); /* #ffffff */
+  --sidebar-accent: oklch(0.925 0.011 71.9); /* #ebe5de */
+  --sidebar-accent-foreground: oklch(0.378 0.009 67.6); /* #45413d */
+  --sidebar-border: oklch(0.915 0.013 75.4); /* #e8e2da */
+  --sidebar-ring: oklch(0.580 0.120 52.0); /* #b1632f */
+}
+
+.dark {
+  --background: oklch(0.211 0.005 67.6); /* #1a1816 */
+  --foreground: oklch(0.869 0.012 79.8); /* #d8d3cb */
+  --card: oklch(0.236 0.006 78.2); /* #201e1b */
+  --card-foreground: oklch(0.869 0.012 79.8); /* #d8d3cb */
+  --popover: oklch(0.253 0.006 78.2); /* #24221f */
+  --popover-foreground: oklch(0.869 0.012 79.8); /* #d8d3cb */
+
+  --primary: oklch(0.777 0.093 52.9); /* #e6a67e */
+  --primary-foreground: oklch(0.211 0.005 67.6); /* #1a1816 */
+  --secondary: oklch(0.283 0.008 75.2); /* #2c2925 */
+  --secondary-foreground: oklch(0.869 0.012 79.8); /* #d8d3cb */
+  --muted: oklch(0.253 0.006 78.2); /* #24221f */
+  --muted-foreground: oklch(0.647 0.014 71.2); /* #948d85 */
+  --accent: oklch(0.283 0.008 75.2); /* #2c2925 */
+  --accent-foreground: oklch(0.869 0.012 79.8); /* #d8d3cb */
+  --destructive: oklch(0.721 0.119 20.4); /* #e68585 */
+
+  --border: oklch(0.275 0.008 75.2); /* #2a2723 */
+  --input: oklch(0.332 0.011 67.4); /* #3a3530 */
+  --ring: oklch(0.777 0.093 52.9); /* #e6a67e */
+
+  --chart-1: oklch(0.777 0.093 52.9); /* #e6a67e */
+  --chart-2: oklch(0.808 0.086 83.7); /* #dbbc7f */
+  --chart-3: oklch(0.707 0.039 152.5); /* #8fa895 */
+  --chart-4: oklch(0.736 0.067 251.5); /* #8badd3 */
+  --chart-5: oklch(0.750 0.082 349.2); /* #d699b6 */
+
+  --sidebar: oklch(0.188 0.005 67.5); /* #151311 */
+  --sidebar-foreground: oklch(0.869 0.012 79.8); /* #d8d3cb */
+  --sidebar-primary: oklch(0.777 0.093 52.9); /* #e6a67e */
+  --sidebar-primary-foreground: oklch(0.211 0.005 67.6); /* #1a1816 */
+  --sidebar-accent: oklch(0.253 0.006 78.2); /* #24221f */
+  --sidebar-accent-foreground: oklch(0.869 0.012 79.8); /* #d8d3cb */
+  --sidebar-border: oklch(0.275 0.008 75.2); /* #2a2723 */
+  --sidebar-ring: oklch(0.777 0.093 52.9); /* #e6a67e */
+}
